@@ -1,0 +1,3 @@
+powFunc(() => {
+    return 5;
+});
